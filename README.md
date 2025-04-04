@@ -7,7 +7,7 @@ M2 Software Engineering Student | Web Developer
 I am Ahmed GHANIM, Software Engineer and Web Developer. I am happy to help you create and develop your websites and improve your visibility. I master different technologies and programming languages like HTML , CSS , JavaScript , Java , Python , React , Django , Wordpress.
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [My Portfolio]([http://resume.ahmed-ghanim.com/](https://ahmedghanim.vercel.app/))
+* 🖥️  See my portfolio at [My Portfolio](https://ahmedghanim.vercel.app/)
 * ✉️  You can contact me at [contact@ahmed-ghanim.com](mailto:ahmedghanim902@gmail.com)
 * 🧠  I'm learning Reactjs and Django
 * 🤝  I'm open to collaborating on Web Development Projects
